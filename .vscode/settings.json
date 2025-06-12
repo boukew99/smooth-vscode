@@ -1,0 +1,47 @@
+{
+    /* Living with Thrash can */
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+
+    /* Optional closing tags */
+    "editor.autoClosingBrackets": "beforeWhitespace",
+    "editor.autoClosingQuotes": "beforeWhitespace",
+
+    /* File Formatting */
+    "files.eol": "\n",
+    "files.insertFinalNewline": true,
+    "files.encoding": "utf8",
+    "files.trimTrailingWhitespace": true,
+
+    /* For text paragraphs */
+    "editor.wordWrap": "on",
+    "editor.rulers": [80, 120],
+
+    /* Omit optional tags in HTML */
+    "html.autoClosingTags": false,
+    /* Update page when switching to browser */
+    "files.autoSave": "onFocusChange",
+
+    /* Ligmatures */
+    "editor.fontFamily": "'Fira Code',  monospace",
+    "editor.fontLigatures": true,
+    "terminal.integrated.fontLigatures.enabled": true,
+
+    /* Smoothness */
+    "editor.cursorBlinking": "smooth",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.smoothScrolling": true,
+    "workbench.list.smoothScrolling": true,
+    "terminal.integrated.smoothScrolling": true,
+    "terminal.integrated.cursorBlinking": true,
+
+    /* Peripheral Indicator */
+    "editor.renderLineHighlight": "gutter",
+
+    /* Traceable Indentation */
+    "editor.renderWhitespace": "boundary",
+
+
+    "diffEditor.ignoreTrimWhitespace": true,
+}
+
